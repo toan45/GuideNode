@@ -1,6 +1,6 @@
 # Auto Install
 
-    wget -O astra https://raw.githubusercontent.com/NodeValidatorVN/GuideNode/main/AstraProtocol/astra && chmod +x astra && ./astra
+    wget -O astra https://raw.githubusercontent.com/toan45/GuideNode/main/AstraProtocol/astra && chmod +x astra && ./astra
 
 # Command
 
