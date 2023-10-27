@@ -1,3 +1,5 @@
+# GuideNode
+
 # Auto Install
 
     wget -O astra https://raw.githubusercontent.com/toan45/GuideNode/main/AstraProtocol/astra && chmod +x astra && ./astra
